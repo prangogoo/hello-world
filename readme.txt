@@ -1,0 +1,2 @@
+Hello!
+Beans are good.
